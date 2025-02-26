@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 # Analyse de la Performance et Transition Écologique d'Airbus
 
 Ce repos contient mon analyse approfondie de la performance environnementale et économique d'Airbus, réalisée dans le cadre de ma candidature pour une alternance en Data Science.
