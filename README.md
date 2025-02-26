@@ -32,7 +32,7 @@ Le rapport complet détaille ma méthodologie, les analyses effectuées et les r
 
 L'ensemble du code utilisé pour cette analyse est disponible dans ces notebooks:
 
-1. **[Notebook d'analyse et visualisations][Lien vers ce notebook d'analyse](https://colab.research.google.com/drive/1xOcB05_fNAE0OwZhpBEm1omIL1MFEMOP?usp=sharing)**
+1. **[Notebook d'analyse et visualisations](https://colab.research.google.com/drive/1xOcB05_fNAE0OwZhpBEm1omIL1MFEMOP?usp=sharing)**
    - Traitement des données
    - Modélisation prédictive
    - Visualisations pour le rapport
